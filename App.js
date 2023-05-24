@@ -43,7 +43,7 @@ export default function App() {
   return (
     <View style={styles.container}>
 		<View style={styles.titulo}>
-			  <Text style={styles.txtTitulo}>CANCULADORA IMC</Text>
+			  <Text style={styles.txtTitulo}>CALCULADORA IMC</Text>
 		</View>
 		  
 		<View style={styles.blocoImg}>
